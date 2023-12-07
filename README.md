@@ -1,1 +1,1 @@
-[Link to page](https://diverpb.github.io/ms-docs/)
+[Link to page](https://diverpb.github.io/ms-doc/)
